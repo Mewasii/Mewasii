@@ -70,12 +70,12 @@ I thrive on turning complex problems into clean, scalable solutions, and I const
 
 | Category | Skills |
 | :--- | :--- |
-| **Cloud Architecture** | **AWS** (EC2, S3, IAM), **OpenStack** (Nova, Neutron, Keystone), Cloud Infrastructure Design |
+| **Cloud Architecture** | **AWS** (EC2, IAM), **OpenStack** (Nova, Neutron, Keystone), Cloud Infrastructure Design |
 | **Backend & Core** | Spring Boot, REST API Design, Microservices, JWT, C#, OOP, Java, Python |
-| **Frontend** | HTML5, CSS3, JavaScript, Bootstrap, Responsive Design, Thymeleaf |
-| **Database** | MySQL, PostgreSQL, MS SQL Server (Basic), Database Design, SQL Query Optimization |
+| **Frontend** |  React, HTML, CSS, JavaScript, Bootstrap, Responsive Design, Thymeleaf |
+| **Database** | MySQL, PostgreSQL, MS SQL Server |
 | **DevOps & Infra** | Docker, Kubernetes (Basic Deployment), CI/CD Pipelines, Apache Maven, Git |
-| **Security** | Spring Security, JWT Authentication, Networking (TCP/IP), Ethical Hacking (OSINT/Pen Testing) |
+| **Security** | Spring Security, JWT Authentication, Networking (TCP/IP), Ethical Hacking  |
 | **Game Dev & Art** | Unity Engine, C# Game Programming, 2D Animation/Physics, Enemy AI, Pixel Art |
 
 ## 📊 GitHub Stats & Activity
@@ -93,9 +93,9 @@ I thrive on turning complex problems into clean, scalable solutions, and I const
 | **GitHub** | [Mewasii](https://github.com/Mewasii) |
 | **Email** | luongtatthuan@gmail.com |
 | **Website/Portfolio** | [Myewsx Portfolio](https://mewasii.github.io/Myewsx-Web-porfolio/)  |
-| **LinkedIn** | [Your LinkedIn Profile](https://www.linkedin.com/in/mewasii/) |
+| **LinkedIn** | [Myewasii](https://www.linkedin.com/in/mewasii/) |
 
 ---
 <p align="center">
-  <i>"I believe that I have a strong ability to learn and adapt to new environments."</i>
+  <i>"I believe that i can learn and adapt to any environments, it's just about time "</i>
 </p>
